@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">仿头条</string>
+    <!--主页tab名称-->
+    <string name="tab_home">首页</string>
+    <string name="tab_sun_video">阳光宽频</string>
+    <string name="tab_attention">关注</string>
+    <string name="tab_my_center">我的</string>
+
+</resources>
